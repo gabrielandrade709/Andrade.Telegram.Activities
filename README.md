@@ -1,4 +1,4 @@
-# UiPath Activity: Telegram Send Message
+# UiPath Activity: Telegram Activities
 
 This activity is intended to send messages to a Telegram user or group. To use it you need to have created a bot by BotFather provided by Telegram itself, the BotFather will provide the first param (Bot Token) to use the activity.
 
@@ -22,10 +22,18 @@ To get th chat id, follow the next steps:
 
 ![image](https://user-images.githubusercontent.com/17112000/124395115-abe6ac00-dcd8-11eb-83de-4a9f487224e9.png)
 
-## Use the activity
+## Activities
 
-To use the activity you need to fill some params: ```Bot Token```, ```Chat ID``` and ```Text message```.
+### Telegram Scope
 
-![image](https://user-images.githubusercontent.com/17112000/124394031-deda7100-dcd3-11eb-83ae-fdca71f24379.png)
+To use the activity you need to fill some params: ```Bot Token``` and ```Chat ID```.
+
+![image](https://user-images.githubusercontent.com/17112000/169195706-d3f6a390-1119-4551-a140-16f9ad5464ea.png)
+
+### Telegram Send Message
+
+To use the activity you need to fill the param ```Message```.
+
+![image](https://user-images.githubusercontent.com/17112000/169196092-9df039a9-6dd6-41dd-b05c-65e2c40f7f04.png)
 
 Once the parameters are filled in correctly, you can perform the activity and it will work!
