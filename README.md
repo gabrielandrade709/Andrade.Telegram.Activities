@@ -28,12 +28,13 @@ To get th chat id, follow the next steps:
 
 To use the activity you need to fill some params: ```Bot Token``` and ```Chat ID```.
 
-![image](https://user-images.githubusercontent.com/17112000/169195706-d3f6a390-1119-4551-a140-16f9ad5464ea.png)
+![image](https://user-images.githubusercontent.com/17112000/169197759-29af2fe5-928d-44ee-93b1-b304297abdcd.png)
 
 ### Telegram Send Message
 
 To use the activity you need to fill the param ```Message```.
 
-![image](https://user-images.githubusercontent.com/17112000/169196092-9df039a9-6dd6-41dd-b05c-65e2c40f7f04.png)
+![image](https://user-images.githubusercontent.com/17112000/169197721-6164c931-5068-409f-98a4-544dd4fa9777.png)
+
 
 Once the parameters are filled in correctly, you can perform the activity and it will work!
