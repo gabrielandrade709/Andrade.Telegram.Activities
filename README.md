@@ -52,7 +52,7 @@ To use the activity you need to fill the param ```Message```.
 
 ![image](https://user-images.githubusercontent.com/17112000/169197721-6164c931-5068-409f-98a4-544dd4fa9777.png)
 
-### Telegram Send and image with a message <a name="TelegramSendAndImageWithAMessage"></a>
+### Telegram Send an image with a message <a name="TelegramSendAndImageWithAMessage"></a>
 
 To use the activity you need to fill the params: ```Image path``` and ```Message```(optional).
 
