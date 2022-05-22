@@ -7,7 +7,7 @@
 4. [Activities](#Activities)
     1. [Telegram Scope](#TelegramScope)
     2. [Telegram Send Message](#TelegramSendMessage)
-    3. [Telegram Send and image with a message](#TelegramSendAndImageWithAMessage)
+    3. [Telegram Send an image with a message](#TelegramSendAndImageWithAMessage)
 
 ---
 
