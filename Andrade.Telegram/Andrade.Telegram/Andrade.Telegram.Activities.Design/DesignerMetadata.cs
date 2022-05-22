@@ -23,6 +23,9 @@ namespace Andrade.Telegram.Activities.Design
             builder.AddCustomAttributes(typeof(TelegramScope), new DesignerAttribute(typeof(TelegramScopeDesigner)));
             builder.AddCustomAttributes(typeof(TelegramScope), new HelpKeywordAttribute(""));
 
+            builder.AddCustomAttributes(typeof(TelegramSendAnImageWithAMessage), categoryAttribute);
+            builder.AddCustomAttributes(typeof(TelegramSendAnImageWithAMessage), new DesignerAttribute(typeof(TelegramSendAnImageWithAMessageDesigner)));
+            builder.AddCustomAttributes(typeof(TelegramSendAnImageWithAMessage), new HelpKeywordAttribute(""));
 
             MetadataStore.AddAttributeTable(builder.CreateTable());
         }

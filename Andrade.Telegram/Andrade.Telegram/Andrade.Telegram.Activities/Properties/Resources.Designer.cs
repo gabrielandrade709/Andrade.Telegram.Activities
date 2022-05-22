@@ -187,6 +187,114 @@ namespace Andrade.Telegram.Activities.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to UiPath activity that is able to send an image with a message on Telegram..
+        /// </summary>
+        public static string TelegramSendAnImageWithAMessage_Description {
+            get {
+                return ResourceManager.GetString("TelegramSendAnImageWithAMessage_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Telegram Send an image with a message.
+        /// </summary>
+        public static string TelegramSendAnImageWithAMessage_DisplayName {
+            get {
+                return ResourceManager.GetString("TelegramSendAnImageWithAMessage_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Image that you&apos;d like to send..
+        /// </summary>
+        public static string TelegramSendAnImageWithAMessage_Image_Description {
+            get {
+                return ResourceManager.GetString("TelegramSendAnImageWithAMessage_Image_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Image path.
+        /// </summary>
+        public static string TelegramSendAnImageWithAMessage_Image_DisplayName {
+            get {
+                return ResourceManager.GetString("TelegramSendAnImageWithAMessage_Image_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Message that you&apos;d like to send (you can use HTML in the message)..
+        /// </summary>
+        public static string TelegramSendAnImageWithAMessage_Message_Description {
+            get {
+                return ResourceManager.GetString("TelegramSendAnImageWithAMessage_Message_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Message.
+        /// </summary>
+        public static string TelegramSendAnImageWithAMessage_Message_DisplayName {
+            get {
+                return ResourceManager.GetString("TelegramSendAnImageWithAMessage_Message_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to UiPath activity that is able to send an image with a message on Telegram..
+        /// </summary>
+        public static string TelegramSendAnImageWithAMessageTeste_Description {
+            get {
+                return ResourceManager.GetString("TelegramSendAnImageWithAMessageTeste_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Telegram Send an image with a message teste.
+        /// </summary>
+        public static string TelegramSendAnImageWithAMessageTeste_DisplayName {
+            get {
+                return ResourceManager.GetString("TelegramSendAnImageWithAMessageTeste_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Image that you&apos;d like to send..
+        /// </summary>
+        public static string TelegramSendAnImageWithAMessageTeste_Image_Description {
+            get {
+                return ResourceManager.GetString("TelegramSendAnImageWithAMessageTeste_Image_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Image.
+        /// </summary>
+        public static string TelegramSendAnImageWithAMessageTeste_Image_DisplayName {
+            get {
+                return ResourceManager.GetString("TelegramSendAnImageWithAMessageTeste_Image_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Message that you&apos;d like to send (you can use HTML in the message)..
+        /// </summary>
+        public static string TelegramSendAnImageWithAMessageTeste_Message_Description {
+            get {
+                return ResourceManager.GetString("TelegramSendAnImageWithAMessageTeste_Message_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Message.
+        /// </summary>
+        public static string TelegramSendAnImageWithAMessageTeste_Message_DisplayName {
+            get {
+                return ResourceManager.GetString("TelegramSendAnImageWithAMessageTeste_Message_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to This activity is intended to send messages to a Telegram user or group..
         /// </summary>
         public static string TelegramSendMessage_Description {

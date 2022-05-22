@@ -149,10 +149,6 @@
     <value>Authentication</value>
     <comment>category</comment>
   </data>
-  <data name="Common_Category" xml:space="preserve">
-    <value>Common</value>
-    <comment>category</comment>
-  </data>
   <data name="Input_Category" xml:space="preserve">
     <value>Input</value>
     <comment>category</comment>
@@ -197,10 +193,6 @@
     <value>Enter the text message (that field allows HTML)</value>
     <comment>property description</comment>
   </data>
-  <data name="Input_Category" xml:space="preserve">
-    <value>Input</value>
-    <comment>category</comment>
-  </data>
   <data name="TelegramScope_DisplayName" xml:space="preserve">
     <value>Telegram Scope</value>
     <comment>activity name</comment>
@@ -217,16 +209,124 @@
     <value>Enter the Bot Token</value>
     <comment>property description</comment>
   </data>
-  <data name="Input_Category" xml:space="preserve">
-    <value>Input</value>
-    <comment>category</comment>
-  </data>
   <data name="TelegramScope_ChatID_DisplayName" xml:space="preserve">
     <value>Chat ID</value>
     <comment>property name</comment>
   </data>
   <data name="TelegramScope_ChatID_Description" xml:space="preserve">
     <value>Enter the Chat ID</value>
+    <comment>property description</comment>
+  </data>
+  <data name="TelegramSendAnImageWithAMessage_DisplayName" xml:space="preserve">
+    <value>Telegram Send an image with a message</value>
+    <comment>activity name</comment>
+  </data>
+  <data name="TelegramSendAnImageWithAMessage_Description" xml:space="preserve">
+    <value>UiPath activity that is able to send an image with a message on Telegram.</value>
+    <comment>activity description</comment>
+  </data>
+  <data name="TelegramSendAnImageWithAMessage_Image_DisplayName" xml:space="preserve">
+    <value>Image path</value>
+    <comment>property name</comment>
+  </data>
+  <data name="TelegramSendAnImageWithAMessage_Image_Description" xml:space="preserve">
+    <value>Image that you'd like to send.</value>
+    <comment>property description</comment>
+  </data>
+  <data name="TelegramSendAnImageWithAMessage_Message_DisplayName" xml:space="preserve">
+    <value>Message</value>
+    <comment>property name</comment>
+  </data>
+  <data name="TelegramSendAnImageWithAMessage_Message_Description" xml:space="preserve">
+    <value>Message that you'd like to send (you can use HTML in the message).</value>
+    <comment>property description</comment>
+  </data>
+  <data name="TelegramSendAnImageWithAMessageTeste_DisplayName" xml:space="preserve">
+    <value>Telegram Send an image with a message teste</value>
+    <comment>activity name</comment>
+  </data>
+  <data name="TelegramSendAnImageWithAMessageTeste_Description" xml:space="preserve">
+    <value>UiPath activity that is able to send an image with a message on Telegram.</value>
+    <comment>activity description</comment>
+  </data>
+  <data name="TelegramSendAnImageWithAMessageTeste_Image_DisplayName" xml:space="preserve">
+    <value>Image</value>
+    <comment>property name</comment>
+  </data>
+  <data name="TelegramSendAnImageWithAMessageTeste_Image_Description" xml:space="preserve">
+    <value>Image that you'd like to send.</value>
+    <comment>property description</comment>
+  </data>
+  <data name="TelegramSendAnImageWithAMessageTeste_Message_DisplayName" xml:space="preserve">
+    <value>Message</value>
+    <comment>property name</comment>
+  </data>
+  <data name="TelegramSendAnImageWithAMessageTeste_Message_Description" xml:space="preserve">
+    <value>Message that you'd like to send (you can use HTML in the message).</value>
+    <comment>property description</comment>
+  </data>
+  <data name="Authentication_Category" xml:space="preserve">
+    <value>Authentication</value>
+    <comment>category</comment>
+  </data>
+  <data name="Common_Category" xml:space="preserve">
+    <value>Common</value>
+    <comment>category</comment>
+  </data>
+  <data name="Input_Category" xml:space="preserve">
+    <value>Input</value>
+    <comment>category</comment>
+  </data>
+  <data name="Output_Category" xml:space="preserve">
+    <value>Output</value>
+    <comment>category</comment>
+  </data>
+  <data name="Options_Category" xml:space="preserve">
+    <value>Options</value>
+    <comment>category</comment>
+  </data>
+  <data name="ValidationScope_Error" xml:space="preserve">
+    <value>Cannot be used outside of a {0}.</value>
+    <comment>error message; {0} is a container activity (e.g. a scope)</comment>
+  </data>
+  <data name="ValidationValue_Error" xml:space="preserve">
+    <value>Please provide a value for {0}.</value>
+    <comment>error message; {0} is the name of a missing property</comment>
+  </data>
+  <data name="ValidationExclusiveProperties_Error" xml:space="preserve">
+    <value>Please provide a value either for {0} or {1}, but not both.</value>
+    <comment>error message; {0} &amp; {1} are mutually exclusive activities</comment>
+  </data>
+  <data name="ValidationOverloadGroup_Error" xml:space="preserve">
+    <value>Please provide values for both {0} and {1}.</value>
+    <comment>error message; {0} &amp; {1} are complementary properties</comment>
+  </data>
+  <data name="TelegramSendFileWithAMessage_DisplayName" xml:space="preserve">
+    <value>Telegram Send file with a message</value>
+    <comment>activity name</comment>
+  </data>
+  <data name="TelegramSendFileWithAMessage_Description" xml:space="preserve">
+    <value>UiPath activity that is able to send file with a message on Telegram.</value>
+    <comment>activity description</comment>
+  </data>
+  <data name="TelegramSendFileWithAMessage_File_DisplayName" xml:space="preserve">
+    <value>File</value>
+    <comment>property name</comment>
+  </data>
+  <data name="TelegramSendFileWithAMessage_File_Description" xml:space="preserve">
+    <value>File to be send.</value>
+    <comment>property description</comment>
+  </data>
+  <data name="Input_Category" xml:space="preserve">
+    <value>Input</value>
+    <comment>category</comment>
+  </data>
+  <data name="TelegramSendFileWithAMessage_Message_DisplayName" xml:space="preserve">
+    <value>Message</value>
+    <comment>property name</comment>
+  </data>
+  <data name="TelegramSendFileWithAMessage_Message_Description" xml:space="preserve">
+    <value>Message to be send.</value>
     <comment>property description</comment>
   </data>
   <data name="Input_Category" xml:space="preserve">
